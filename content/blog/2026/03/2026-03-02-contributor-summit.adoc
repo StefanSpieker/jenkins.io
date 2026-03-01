@@ -9,7 +9,7 @@ authors:
 - stefan_spieker
 description: "Impressions from Jenkins Contributor Summit in Brussels"
 opengraph:
-  image: /images/post-images/2026/03/contributor_summit_grup_picture.jpg
+  image: /images/post-images/2026/03/contributor_summit_group_picture.jpg
 ---
 
 == Jenkins Contributor Summit 2026: A Personal Reflection
@@ -86,6 +86,7 @@ Disagreements were pragmatic rather than ideological.
 Everyone shared the same goal: ensuring Jenkins remains relevant and reliable.
 
 I took a photo during one of the sessions, and it captures the spirit of the summit:
+
 image::/images/post-images/2026/03/contributor_summit_room.jpg[alt="Jenkins Contributor Summit Session"]
 
 == Advocacy and Community Building
